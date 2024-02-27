@@ -11,7 +11,6 @@ export function generateHeaders(opts: Options) {
 }
 
 export async function fetcher(url: string, opts: Options = {}) {
-  console.log('fetching..')
   // append query to url
   if (opts.query) {
     url += '?'

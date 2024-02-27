@@ -50,6 +50,8 @@ type SearchControlProps = {
   getGames?: Function;
 };
 
+const API_ENDPOINT = process.env.NEXT_PUBLIC_API_ENDPOINT || "";
+
 
 export default function SearchControlZod(props: SearchControlProps) {
   const [gameBoard, setGameBoard] = useAtom(gameBoardAtom);
@@ -74,8 +76,6 @@ export default function SearchControlZod(props: SearchControlProps) {
       page?: number
     } = {}
 
-    console.log("output", output)
-
     if (facilities && facilities.length > 0) output.facilities = facilities
     if (dates && dates.length > 0) output.dates = dates
     if (skillLevels && skillLevels.length > 0) output.skillLevels = skillLevels
@@ -95,7 +95,6 @@ export default function SearchControlZod(props: SearchControlProps) {
   useEffect(() => {
     if (!goToPage || !page || !pageCount) return
     if (goToPage !== page && goToPage > 0 && goToPage <= pageCount) {
-      console.log(`finding games for page ${goToPage}`)
       findGames(goToPage)
     }
   }, [goToPage])
@@ -155,13 +154,12 @@ export default function SearchControlZod(props: SearchControlProps) {
   }
 
   const findGames = useCallback(async (page: number) => {
-    console.log("findGames")
     const facilityIds = form.getValues("facilities")?.map((el) => el.id);
     const dates = form
       .getValues("dates")
       ?.map((el) => format(el, "yyyy-MM-dd"));
     console.log("f", form.getValues("facilities"));
-    const data = await fetcher("/api/game/search", {
+    const data = await fetcher(`${API_ENDPOINT}/api/game/search`, {
       headers: {
         pagination: true,
         page: page ? page : 1,
