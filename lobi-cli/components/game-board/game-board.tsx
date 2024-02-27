@@ -22,6 +22,7 @@ import Pagination from "@/components/ui/pagination/pagination";
 import {Tooltip, TooltipContent, TooltipProvider, TooltipTrigger} from "../ui/tooltip";
 import {toast} from "sonner";
 
+const API_ENDPOINT = process.env.NEXT_PUBLIC_API_ENDPOINT || "";
 
 const cardFont = Roboto({
   weight: ["400", "700"],
@@ -58,7 +59,7 @@ export default function GameBoard(props: GameBoardProps) {
 
   // fetch upcoming games
   useEffect(() => {
-    const data = fetcher("/api/game/upcoming", {
+    const data = fetcher(`${API_ENDPOINT}/api/game/upcoming`, {
       headers: {
         pagination: true,
         page: 1,
