@@ -1,0 +1,1810 @@
+[
+  {
+    "_id": "650525c7f4d936033e4f8847",
+    "name": "Admiralty Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "6374 5342",
+    "address": "11 Woodlands Circle Singapore 738907",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8848",
+    "name": "Ang Mo Kio Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8849",
+    "name": "Beacon Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "36 Bukit Panjang Ring Road Singapore 679944",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f884a",
+    "name": "Beatty Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62592916",
+    "address": "1 Toa Payoh North Singapore 318990",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f884b",
+    "name": "Bedok Green Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64435511",
+    "address": "1 Bedok South Avenue 2 Singapore 469317",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f884c",
+    "name": "Bedok South Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64435511",
+    "address": "1 Jalan Langgar Bedok Singapore 468585",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f884d",
+    "name": "Bendemeer Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62939058",
+    "address": "91 Bendemeer Road Singapore 339948",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f884e",
+    "name": "Bendemeer Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62939058",
+    "address": "1 Saint Wilfred Road Singapore 327919",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f884f",
+    "name": "Bishan Clubhouse",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "63536117",
+    "address": "3 Bishan Street 14 Singapore 579780",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8850",
+    "name": "Bishan Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "63536117",
+    "address": "5 Bishan Street 14 Singapore 579783",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8851",
+    "name": "Boon Lay Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65155332",
+    "address": "11 Jurong West Street 65 Singapore 648354",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8852",
+    "name": "Bowen Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63158671",
+    "address": "2 Lorong Napiri Singapore 547529",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8853",
+    "name": "Bukit Canberra Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "6374 5342",
+    "address": "21 Canberra Link Singapore 756973",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8854",
+    "name": "Bukit Gombak Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "68962194",
+    "address": "810 Bukit Batok West Avenue 5 Singapore 659088",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8855",
+    "name": "Bukit Panjang Govt High School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "7 Choa Chu Kang Avenue 4 Singapore 689809",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8856",
+    "name": "Bukit Panjang Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "68962194",
+    "address": "109 Cashew Road Singapore 679676",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8857",
+    "name": "Bukit View Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "68962194",
+    "address": "16 Bukit Batok Street 21 Singapore 659633",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8858",
+    "name": "Canberra Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "6374 5342",
+    "address": "21 Admiralty Drive Singapore 757714",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8859",
+    "name": "Canberra Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "6374 5342",
+    "address": "51 Sembawang Drive Singapore 757699",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f885a",
+    "name": "Cantonment Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62039246",
+    "address": "1 Cantonment Close Singapore 088256",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f885b",
+    "name": "Casuarina Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "30 Pasir Ris Street 41 Singapore 518935",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f885c",
+    "name": "Cedar Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62939058",
+    "address": "15 Cedar Avenue Singapore 349700",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f885d",
+    "name": "Changkat Changi Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64435511",
+    "address": "23 Simei Street 3 Singapore 529894",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f885e",
+    "name": "Changkat Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64435511",
+    "address": "11 Simei Street 3 Singapore 529896",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f885f",
+    "name": "Choa Chu Kang Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "67671735",
+    "address": "1 Choa Chu Kang Street 53 Singapore 689236",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8860",
+    "name": "Christ Church Secondary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "20 Woodlands Drive 17 Singapore 737924",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8861",
+    "name": "Clementi Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67762560",
+    "address": "8 Clementi Avenue 3 Singapore 129903",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8862",
+    "name": "Clementi Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "67762560",
+    "address": "518 Clementi Avenue 3 Singapore 129907",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8863",
+    "name": "Clementi Town Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67762560",
+    "address": "10 Clementi Avenue 3 Singapore 129904",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8864",
+    "name": "Commonwealth Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67762560",
+    "address": "698 West Coast Road Singapore 608784",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8865",
+    "name": "Compassvale Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63153574",
+    "address": "21 Compassvale Street Singapore 545091",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8866",
+    "name": "Concord Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "3 Choa Chu Kang Avenue 4 Singapore 689814",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8867",
+    "name": "Dazhong Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "68962194",
+    "address": "35 Bukit Batok Street 31 Singapore 659441",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8868",
+    "name": "Delta Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "62039246",
+    "address": "900 Tiong Bahru Road Singapore 158790",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8869",
+    "name": "Deyi Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64824980",
+    "address": "1 Ang Mo Kio Street 42 Singapore 569277",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f886a",
+    "name": "Dunman High School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63481291",
+    "address": "10 Tanjong Rhu Road Singapore 436895",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f886b",
+    "name": "East Spring Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63853718",
+    "address": "31 Tampines Street 33 Singapore 529258",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f886c",
+    "name": "Edgefield Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63153574",
+    "address": "41 Edgefield Plains Singapore 828869",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f886d",
+    "name": "Edgefield Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63153574",
+    "address": "36 Punggol Field Singapore 828814",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f886e",
+    "name": "Elias Park Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "11 Pasir Ris Street 52 Singapore 518866",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f886f",
+    "name": "Endeavour Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8870",
+    "name": "Eunoia Junior College Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63536631",
+    "address": "2 Sin Ming Place Singapore 573838",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8871",
+    "name": "Evergreen Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "31 Woodlands Circle Singapore 738908",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8872",
+    "name": "Fengshan Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64435511",
+    "address": "307 Bedok North Road Singapore 469680",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8873",
+    "name": "Fern Green Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8874",
+    "name": "First Toa Payoh Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62592916",
+    "address": "7 Lorong 8 Toa Payoh Singapore 319252",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c7f4d936033e4f8875",
+    "name": "Frontier Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65155332",
+    "address": "20 Jurong West Street 61 Singapore 648200",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8876",
+    "name": "Fuhua Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "5 Jurong West Street 41 Singapore 649410",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8877",
+    "name": "Gan Eng Seng Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62039246",
+    "address": "100 Redhill Close Singapore 158901",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8878",
+    "name": "Greendale Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63153574",
+    "address": "50 Edgedale Plains Singapore 828848",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8879",
+    "name": "Greenridge Secondary School Hall (Gangsa Road)",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f887a",
+    "name": "Greenwood Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "6374 5342",
+    "address": "11 Woodlands Drive 62 Singapore 737942",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f887b",
+    "name": "Heartbeat @ Bedok Activesg Sport Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f887c",
+    "name": "Henry Park Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f887d",
+    "name": "Hougang Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63158671",
+    "address": "2 Hougang Street 93 Singapore 534256",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f887e",
+    "name": "Hougang Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "63158671",
+    "address": "93 Hougang Avenue 4 Singapore 538832",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f887f",
+    "name": "Hua Yi Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "60 Jurong West Street 42 Singapore 649371",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8880",
+    "name": "Innova Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "80 Woodlands Drive 17 Singapore 737888",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8881",
+    "name": "Jiemin Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "2 Yishun Street 71 Singapore 768515",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8882",
+    "name": "Junyuan Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63853718",
+    "address": "11 Tampines Street 84 Singapore 528933",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8883",
+    "name": "Jurong East Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "65635052",
+    "address": "21 Jurong East Street 31 Singapore 609517",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8884",
+    "name": "Jurong Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "31 Yuan Ching Road Singapore 618652",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8885",
+    "name": "Jurong West Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8886",
+    "name": "Jurong West Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "65155332",
+    "address": "20 Jurong West Street 93 Singapore 648965",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8887",
+    "name": "Jurongville Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "202 Jurong East Avenue 1 Singapore 609790",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8888",
+    "name": "Keming Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "68962194",
+    "address": "90 Bukit Batok East Avenue 6 Singapore 659762",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8889",
+    "name": "Kuo Chuan Presbyterian Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63526631",
+    "address": "8 Bishan Street 13 Singapore 579793",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f888a",
+    "name": "Lakeside Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "161 Corporation Walk Singapore 618310",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f888b",
+    "name": "Lianhua Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "68962194",
+    "address": "2 Bukit Batok Street 52 Singapore 659243",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f888c",
+    "name": "Loyang View Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "12 Pasir Ris Street 11 Singapore 519073",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f888d",
+    "name": "Marsiling Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "31 Woodlands Centre Road Singapore 738927",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f888e",
+    "name": "Mayflower Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64824980",
+    "address": "2 Ang Mo Kio Street 21 Singapore 569384",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f888f",
+    "name": "Meridian Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "20 Pasir Ris Street 71 Singapore 518798",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8890",
+    "name": "Meridian Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "31 Pasir Ris Street 51 Singapore 518901",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8891",
+    "name": "Moe (Evans) Sport Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8892",
+    "name": "Nanyang Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62039246",
+    "address": "27 King'S Road Singapore 268079",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8893",
+    "name": "Naval Base Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "901 Yishun Ring Road Singapore 768689",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8894",
+    "name": "New Town Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67762560",
+    "address": "1020 Dover Road Singapore 139657",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8895",
+    "name": "North Vista Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62884606",
+    "address": "20 Compassvale Link Singapore 544974",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8896",
+    "name": "North Vista Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62884606",
+    "address": "11 Rivervale Link Singapore 545081",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8897",
+    "name": "Northland Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "15 Yishun Avenue 4 Singapore 769026",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8898",
+    "name": "Northland Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "3 Yishun Street 22 Singapore 768578",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f8899",
+    "name": "Northoaks Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "6374 5342",
+    "address": "61 Sembawang Drive Singapore 757622",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f889a",
+    "name": "Nus University Town, Stephen Riady Centre, Hall 1",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f889b",
+    "name": "Oasis Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f889c",
+    "name": "Our Tampines Hub   Community Auditorium",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f889d",
+    "name": "Palm View Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f889e",
+    "name": "Park View Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "60 Pasir Ris Drive 1 Singapore 519524",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f889f",
+    "name": "Pasir Ris Crest Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65838557",
+    "address": "11 Pasir Ris Street 41 Singapore 518934",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a0",
+    "name": "Pasir Ris Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63853718",
+    "address": "390 Tampines Street 21 Singapore 529400",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a1",
+    "name": "Pasir Ris Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "65838557",
+    "address": "120 Pasir Ris Central Singapore 519640",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a2",
+    "name": "Peicai Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62884606",
+    "address": "10 Serangoon Avenue 4 Singapore 556094",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a3",
+    "name": "Pierce Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63526631",
+    "address": "10 Sin Ming Walk Singapore 575566",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a4",
+    "name": "Peiying Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "651 Yishun Ring Road Singapore 768687",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a5",
+    "name": "Pioneer Primary School Hall (Juying)",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a6",
+    "name": "Poi Ching School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63853718",
+    "address": "21 Tampines Street 71 Singapore 529067",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a7",
+    "name": "Punggol View Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63153574",
+    "address": "9 Punggol Place Singapore 828845",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a8",
+    "name": "Qifa Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67762560",
+    "address": "50 West Coast Avenue Singapore 128104",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88a9",
+    "name": "Qihua Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "5 Woodlands Street 81 Singapore 738525",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88aa",
+    "name": "Queenstown Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62039246",
+    "address": "310 Margaret Drive Singapore 149303",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88ab",
+    "name": "Queensway Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62039246",
+    "address": "2A Margaret Drive Singapore 149295",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88ac",
+    "name": "Radin Mas Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62039246",
+    "address": "1 Bukit Purmei Avenue Singapore 099840",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88ad",
+    "name": "Red Swastika School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64435511",
+    "address": "350 Bedok North Avenue 3 Singapore 469719",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88ae",
+    "name": "Sembawang Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "6374 5342",
+    "address": "10 Sembawang Drive Singapore 757715",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88af",
+    "name": "Seng Kang Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b0",
+    "name": "Seng Kang Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62884606",
+    "address": "10 Compassvale Lane Singapore 545090",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b1",
+    "name": "Sengkang Green Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63153574",
+    "address": "15 Fernvale Road Singapore 797636",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b2",
+    "name": "Sengkang Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "63153574",
+    "address": "57 Anchorvale Road Singapore 544964",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b3",
+    "name": "Serangoon Garden Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62884606",
+    "address": "21 Serangoon North Avenue 1 Singapore 555889",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b4",
+    "name": "Shuqun Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "8 Jurong West Street 51 Singapore 649332",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b5",
+    "name": "South View Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "6 Choa Chu Kang Central Singapore 689762",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b6",
+    "name": "St Gabriel'S Secondary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b7",
+    "name": "St. Anthony'S Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b8",
+    "name": "Swiss Cottage Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "68962194",
+    "address": "3 Bukit Batok Street 34 Singapore 659322",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88b9",
+    "name": "Teck Ghee Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63526631",
+    "address": "1 Ang Mo Kio Street 32 Singapore 569299",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88ba",
+    "name": "Toa Payoh Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "62592916",
+    "address": "297 Lorong 6 Toa Payoh Singapore 319389",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88bb",
+    "name": "Townsville Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88bc",
+    "name": "Unity Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "21 Choa Chu Kang Crescent Singapore 688268",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88bd",
+    "name": "Unity Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "20 Choa Chu Kang Street 62 Singapore 689143",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88be",
+    "name": "West View Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67671735",
+    "address": "31 Senja Road Singapore 677742",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88bf",
+    "name": "Westwood Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65155332",
+    "address": "11 Jurong West Street 25 Singapore 648350",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c8f4d936033e4f88c0",
+    "name": "Woodgrove Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "2 Woodlands Drive 14 Singapore 738079",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c1",
+    "name": "Woodlands Ring Primary School Hall",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c2",
+    "name": "Woodlands Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62694192",
+    "address": "11 Marsiling Road Singapore 739111",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c3",
+    "name": "Woodlands Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "62694192",
+    "address": "2 Woodlands Street 12 Singapore 738620",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c4",
+    "name": "Xing Hua Primary School",
+    "operatingHours": {
+      "days": {},
+      "additionalNotes": ""
+    },
+    "phoneNumber": "undefined",
+    "address": "undefined",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c5",
+    "name": "Yio Chu Kang Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "63158671",
+    "address": "1 Hougang Street 51 Singapore 538720",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c6",
+    "name": "Yio Chu Kang Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64824980",
+    "address": "3063 Ang Mo Kio Avenue 5 Singapore 569868",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c7",
+    "name": "Yio Chu Kang Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "64824980",
+    "address": "200 Ang Mo Kio Avenue 9 Singapore 569770",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c8",
+    "name": "Yishun Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "500 Yishun Ring Road Singapore 768679",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88c9",
+    "name": "Yishun Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "64824980",
+    "address": "4 Yishun Street 71 Singapore 768516",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88ca",
+    "name": "Yishun Sport Hall",
+    "operatingHours": {
+      "days": {
+        "Daily": "7am - 10pm"
+      },
+      "additionalNotes": "Please refer to the Facilities Closure page for any latest information on this facility, or contact the Sport Centre directly."
+    },
+    "phoneNumber": "67567416",
+    "address": "101 Yishun Avenue 1 Singapore 769130",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88cb",
+    "name": "Yishun Town Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "67567416",
+    "address": "6 Yishun Street 21 Singapore 768610",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88cc",
+    "name": "Yuan Ching Secondary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "65635052",
+    "address": "103 Yuan Ching Road Singapore 618654",
+    "organisation": "ActiveSG"
+  },
+  {
+    "_id": "650525c9f4d936033e4f88cd",
+    "name": "Zhonghua Primary School Hall",
+    "operatingHours": {
+      "days": {
+        "Sat": "3pm to 9pm",
+        "Sun": "9am to 9pm"
+      },
+      "additionalNotes": ""
+    },
+    "phoneNumber": "62884606",
+    "address": "12 Serangoon Avenue 4 Singapore 556095",
+    "organisation": "ActiveSG"
+  }
+]

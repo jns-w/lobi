@@ -1,0 +1,181 @@
+$paddingx: 40px;
+$max-width: 1400px;
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  width: 100%;
+  // padding: 30px 0;
+}
+
+.gameBoardHeaderContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  // align-items: center;
+  width: 100%;
+  width: $max-width;
+
+  h2 {
+    font-size: 40px;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+  }
+
+  @media (max-width: 1600px) {
+    max-width: 1000px;
+    padding: 0;
+  }
+  @media (max-width: 950px) {
+    max-width: 400px;
+    h2 {
+      font-size: 30px;
+    }
+  }
+}
+
+.listContainer {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px 20px;
+  max-width: 1400px;
+
+  &.column {
+    grid-template-columns: 1fr;
+    width: 400px;
+    gap: 20px;
+  }
+
+  @media (max-width: 1600px) {
+    max-width: 1000px;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+  }
+
+  @media (max-width: 950px) {
+    max-width: 400px;
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.gameWrapper {
+  border-radius: 20px;
+  height: 250px;
+  min-width: 450px;
+  max-width: 500px;
+  box-shadow: 1px 0 2px hsla(0, 0%, 90%, 0.2), 1px 0 10px hsla(0, 0%, 90%, 0.2),
+    1px 0 20px hsla(0, 0%, 74%, 0.2), 2px 0 30px hsla(0, 0%, 69%, 0.2),
+    3px 0 40px hsla(0, 0%, 77%, 0.2);
+  overflow: hidden;
+  background: white;
+  z-index: 1;
+
+  &.placeholder {
+    background: #e5e5e5;
+    box-shadow: none;
+  }
+}
+
+.gameCardHeaderContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-clip: border-box;
+  background-color: var(--accent-blue);
+  color: white;
+  padding: 20px $paddingx;
+}
+
+.facilityContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  opacity: 0.7;
+}
+
+.dateContainer {
+  display: flex;
+  align-items: center;
+
+  h3 {
+    font-size: 18px;
+    font-weight: 700;
+  }
+}
+
+.gameContentContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  padding: 20px $paddingx;
+  height: 150px;
+  width: 100%;
+}
+
+.descriptionContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  overflow: hidden;
+  overflow-clip: ellipsis;
+  color: var(--accent-blue);
+
+  h4 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+}
+
+.footerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.skillLevelContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  gap: 5px;
+}
+
+.contactButton {
+  //background-color: #e36158;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border-radius: 30px;
+  // padding: 5px 15px;
+  // border: 2px solid var(--accent-blue);
+  color: var(--accent-blue);
+  font-size: 14px;
+  font-weight: 600;
+  overflow: hidden;
+
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

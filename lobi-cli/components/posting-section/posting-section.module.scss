@@ -1,0 +1,28 @@
+.wrapper {
+}
+
+.container {
+  display: flex;
+}
+
+.postButton {
+  background-color: #242424;
+  display: flex;
+  align-items: center;
+  border-radius: 30px;
+  padding: 7px 16px;
+  color: white;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+
+  &:hover {
+    background-color: black;
+  }
+
+  svg {
+    margin-right: 7px;
+    width: 15px;
+  }
+}

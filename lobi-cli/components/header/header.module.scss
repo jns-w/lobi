@@ -1,0 +1,36 @@
+.wrapper {
+  position: absolute;
+  width: 100%;
+  z-index: 100;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px;
+  width: 100%;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 15px;
+  cursor: pointer;
+
+  h4 {
+    font-family: feelFree, sans-serif;
+    font-size: 48px;
+  }
+}
+
+.right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #d0d0d0;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}

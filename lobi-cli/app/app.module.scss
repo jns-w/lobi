@@ -1,0 +1,33 @@
+.shadow {
+  box-shadow: 1px 0 2px hsla(0, 0%, 89%, 0.2),
+  1px 0 10px hsla(0, 0%, 80%, 0.2),
+  1px 0 20px hsla(0, 0%, 74%, 0.2),
+  2px 0 30px hsla(0, 0%, 69%, 0.2),
+  3px 0 40px hsla(0, 0%, 77%, 0.2);
+}
+
+.searchWrapper {
+  z-index: 50;
+  //position: absolute;
+  margin-top: -150px;
+}
+
+@font-face {
+  font-family: feelFree;
+  src: url(/fonts/FeelfreePersonalUseRegular-lg2Bw.woff2)
+}
+
+.brandFont {
+  font-family: feelFree, sans-serif;
+
+}
+
+.searchButton {
+  background-color: #e36158;
+  border-radius: 20px;
+  padding: 10px 20px;
+
+  &:hover {
+    background-color: #cb4b43;
+  }
+}

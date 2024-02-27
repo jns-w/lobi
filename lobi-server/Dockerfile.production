@@ -1,0 +1,7 @@
+FROM oven/bun:1-alpine
+WORKDIR /app
+COPY ./lobi-server/package.json ./lobi-server/bun.lockb ./
+RUN bun install --frozen-lockfile --production
+COPY ./lobi-server/ .
+EXPOSE 8080
+ENTRYPOINT ["bun", "run", "src/index.ts"]
