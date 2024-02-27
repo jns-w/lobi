@@ -17,7 +17,6 @@ import {Popover, PopoverContent, PopoverTrigger,} from "@/components/ui/popover"
 import {CalendarIcon, Check, Gauge, MapPin, PlusIcon} from "lucide-react";
 import {Command, CommandEmpty, CommandGroup, CommandInput, CommandItem,} from "@/components/ui/command";
 import {cn} from "@/lib/utils";
-import locationsJson from "@/data/locations.json";
 import React, {useState} from "react";
 import {format} from "date-fns";
 import {Calendar} from "@/components/ui/calendar";
@@ -48,14 +47,14 @@ const skillLevels = [
   "Professional",
 ] as const;
 
-const locationsData = JSON.parse(JSON.stringify(locationsJson));
-let locations: { id: string; name: string }[] = [];
-for (let i = 0; i < locationsData.length; i++) {
-  locations.push({
-    id: locationsData[i],
-    name: locationsData[i],
-  });
-}
+// const locationsData = JSON.parse(JSON.stringify(locationsJson));
+// let locations: { id: string; name: string }[] = [];
+// for (let i = 0; i < locationsData.length; i++) {
+//   locations.push({
+//     id: locationsData[i],
+//     name: locationsData[i],
+//   });
+// }
 
 const formSchema = z.object({
   hostName: z.string({required_error: "Required field."}),
@@ -94,7 +93,6 @@ export default function PostGameModal() {
   const [open, setOpen] = useState(false);
 
   async function onSubmit(data: z.infer<typeof formSchema>) {
-    console.log("submitting");
     const packet = {
       hostName: data.hostName,
       contactNumber: data.contactNumber,
@@ -106,7 +104,6 @@ export default function PostGameModal() {
       },
       skillLevel: data.skillLevel,
     };
-    console.log(packet);
     const res = await axios.post("/api/game", packet).then((res) => res.data);
     if (res.ok) {
       setStartTime({hour: "", minute: "", period: ""})
@@ -132,7 +129,6 @@ export default function PostGameModal() {
       })
     }
   }
-
 
   function genDateTime(date: Date, time: TimeObject) {
     if (!date && !time) return undefined;
