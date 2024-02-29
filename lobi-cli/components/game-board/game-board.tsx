@@ -22,7 +22,7 @@ import Pagination from "@/components/ui/pagination/pagination";
 import {Tooltip, TooltipContent, TooltipProvider, TooltipTrigger} from "../ui/tooltip";
 import {toast} from "sonner";
 
-const API_ENDPOINT = process.env.NEXT_PUBLIC_API_ENDPOINT || "";
+const API_ENDPOINT = process.env.API_ENDPOINT || "";
 
 const cardFont = Roboto({
   weight: ["400", "700"],

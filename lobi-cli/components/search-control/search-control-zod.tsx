@@ -50,7 +50,7 @@ type SearchControlProps = {
   getGames?: Function;
 };
 
-const API_ENDPOINT = process.env.NEXT_PUBLIC_API_ENDPOINT || "";
+const API_ENDPOINT = process.env.API_ENDPOINT || "";
 
 
 export default function SearchControlZod(props: SearchControlProps) {
