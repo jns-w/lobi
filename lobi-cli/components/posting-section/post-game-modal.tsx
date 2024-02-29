@@ -39,6 +39,8 @@ import {useAtom} from "jotai";
 import {toast} from "sonner"
 
 
+const API_ENDPOINT = process.env.API_ENDPOINT || "";
+
 const skillLevels = [
   "Beginner",
   "Intermediate",
@@ -104,7 +106,7 @@ export default function PostGameModal() {
       },
       skillLevel: data.skillLevel,
     };
-    const res = await axios.post("/api/game", packet).then((res) => res.data);
+    const res = await axios.post(`${API_ENDPOINT}/api/game`, packet).then((res) => res.data);
     if (res.ok) {
       setStartTime({hour: "", minute: "", period: ""})
       setEndTime({hour: "", minute: "", period: ""})
