@@ -2,6 +2,7 @@ import {getDb} from "./config";
 import {Context} from "hono";
 import {ObjectId} from "mongodb";
 import {parseISO} from "date-fns";
+import {Game} from "../types/game.type";
 
 const gameProjection = {
   $project: {
@@ -143,13 +144,13 @@ export async function getUpcomingGames(ctx: Context) {
 
 export async function insertGame(ctx: Context) {
   try {
-    const body = await ctx.req.json();
-    console.log(body);
+    const body: Game = await ctx.req.json();
     const facility = await getDb()
       ?.collection("facilities")
       .findOne({name: body.facilityName});
     console.log(facility?._id);
     if (!facility) throw new Error("Invalid facility");
+    if (!body.dateTime) throw new Error("No date time found")
     const game = {
       hostName: body.hostName,
       contactNumber: body.contactNumber,
@@ -174,8 +175,6 @@ export async function searchGames(ctx: Context) {
   try {
     const query = ctx.req.queries();
     const header = ctx.req.header();
-    console.log(query);
-    console.log(header);
     for (const key in query) {
       if (query[key].length === 0) {
         delete query[key];
@@ -212,7 +211,6 @@ export async function searchGames(ctx: Context) {
         limit: limit,
         pageCount: Math.ceil(data[0].itemsCount[0].count / limit),
       }
-      console.log("r", res)
     } else {
       const data = await getDb()
         ?.collection("games")
