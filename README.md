@@ -1,6 +1,7 @@
 # Lobi: Streamlining the Badminton Game Experience
 
 Demo site: [lobi.jonaswong.dev](https://lobi.jonaswong.dev)
+
 ![](https://res.cloudinary.com/ds1s8ilcc/image/upload/v1709782140/Devsite/lobi/lobi-main_qnctkr.png)
 
 Lobi is a web application that aims to simplify the process of organising and finding badminton games in Singapore. It serves as a centralised platform for both game organisers and players, eliminating the need for scattered communication channels and redundant data.
