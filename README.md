@@ -64,3 +64,5 @@ Unlike Lobi's previous project, Blocks, where the Mongoose ORM was used, this ti
 Example of a custom match statement generated in the server:
 
 ![](https://res.cloudinary.com/ds1s8ilcc/image/upload/v1709802570/Devsite/lobi/lobi-mongodriver01_ozucvi.png)
+
+Thank you for reading! If you'd like to see more, check out my next project [Menu'd](https://github.com/jns-w/menud) where I built an app-like web page using react and pure css.
