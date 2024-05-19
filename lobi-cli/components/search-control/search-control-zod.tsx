@@ -163,7 +163,7 @@ export default function SearchControlZod(props: SearchControlProps) {
       headers: {
         pagination: true,
         page: page ? page : 1,
-        limit: 4,
+        limit: 6,
       },
       query: {
         date: dates,
