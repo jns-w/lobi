@@ -1,0 +1,55 @@
+@mixin media($breakpoint) {
+  @if $breakpoint == mobile-xs {
+    @media (width <= 320px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == mobile-s {
+    @media (width <= 375px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == mobile {
+    @media (width <= 464px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == tablet {
+    @media (width <= 765px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == small {
+    @media (width <= 984px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == medium {
+    @media (width <= 1248px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == standard {
+    @media (width >= 1248px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == large {
+    @media (width > 1500px) {
+      @content;
+    }
+  }
+
+  @if $breakpoint == x-large {
+    @media (width >= 2560px) {
+      @content;
+    }
+  }
+}
