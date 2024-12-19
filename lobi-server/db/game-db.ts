@@ -126,7 +126,40 @@ export async function getFeaturedGames(ctx: Context) {
 
 export async function getUpcomingGames(ctx: Context) {
   try {
-    const res = await getDb()
+    const header = ctx.req.header();
+
+    if (header.pagination) {
+      if (!header.page) throw new Error("No page number");
+      if (!header.limit) throw new Error("No limit number found");
+      const page = parseInt(header.page);
+      const limit = parseInt(header.limit);
+      const skip = (page - 1) * limit;
+      const data = await getDb()
+        ?.collection("games")
+        .aggregate([
+          {$match: {"dateTime.start": {$gte: new Date()}}},
+          ...facilityLookupAndSet,
+          gameProjection,
+          {
+            $facet:
+              {
+                items: [{$sort: {"dateTime.start": 1}}, {$skip: skip}, {$limit: limit}],
+                itemsCount: [{$count: "count"}]
+              },
+          },
+        ]).toArray()
+      if (!data) throw new Error("Something went wrong");
+      const res = {
+        ...data[0],
+        itemsCount: data[0].itemsCount[0].count,
+        page: page,
+        limit: limit,
+        pageCount: Math.ceil(data[0].itemsCount[0].count / limit),
+      }
+      return ctx.json({ok: true, data: res});
+    }
+
+    const data = await getDb()
       ?.collection("games")
       .aggregate([
         {$match: {"dateTime.start": {$gte: new Date()}}},
@@ -136,6 +169,15 @@ export async function getUpcomingGames(ctx: Context) {
       .sort({"dateTime.start": 1})
       .limit(30)
       .toArray();
+
+    if (!data) throw new Error("Something went wrong");
+
+    const res = {
+      items: data,
+      itemsCount: data.length,
+      page: 1,
+      limit: data.length,
+    }
     return ctx.json({ok: true, data: res});
   } catch (err) {
     console.log(err);

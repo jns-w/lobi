@@ -171,6 +171,7 @@ export default function SearchControlZod(props: SearchControlProps) {
         skillLevel: form.getValues("skillLevels"),
       },
     });
+    console.log("search", data)
     if (data) {
       setGameBoard({
         items: data.items,

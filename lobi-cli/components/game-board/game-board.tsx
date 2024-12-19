@@ -1,8 +1,8 @@
 "use client";
 import styles from "./game-board.module.scss";
-import {Roboto} from "next/font/google";
-import {format} from "date-fns";
-import {Calendar, ChevronLeft, ChevronRight, Gauge, Loader, UserCircle2,} from "lucide-react";
+import { Roboto } from "next/font/google";
+import { format } from "date-fns";
+import { Calendar, ChevronLeft, ChevronRight, Gauge, Loader, UserCircle2, } from "lucide-react";
 import {
   gameBoardAtom,
   gamesListAtom,
@@ -12,15 +12,15 @@ import {
   pageAtom,
   resultOfAtom,
 } from "@/atoms/game-board-atom";
-import {useAtom} from "jotai";
-import {motion} from "framer-motion";
-import {useEffect, useState} from "react";
-import {fetcher} from "@/lib/api";
-import {Button} from "@/components/ui/button";
-import {cn} from "@/lib/utils";
+import { useAtom } from "jotai";
+import { motion } from "framer-motion";
+import { useEffect, useState } from "react";
+import { fetcher } from "@/lib/api";
+import { Button } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
 import Pagination from "@/components/ui/pagination/pagination";
-import {Tooltip, TooltipContent, TooltipProvider, TooltipTrigger} from "../ui/tooltip";
-import {toast} from "sonner";
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "../ui/tooltip";
+import { toast } from "sonner";
 
 const API_ENDPOINT = process.env.API_ENDPOINT || "";
 
@@ -59,28 +59,32 @@ export default function GameBoard(props: GameBoardProps) {
 
   // fetch upcoming games
   useEffect(() => {
-    const data = fetcher(`${API_ENDPOINT}/api/game/upcoming`, {
-      headers: {
-        pagination: true,
-        page: 1,
-        limit: 9,
-      },
-    });
-    setIsLoading(true);
-    setResultOf("");
-    data.then(async (res) => {
-      setGameBoard({
-        items: res.items,
-        itemsCount: res.itemsCount,
-        page: res.page,
-        pageCount: res.pageCount,
-        limit: res.limit,
-        resultOf: "upcoming",
-        timestamp: new Date(),
+    async function fetchUpcoming() {
+      const data = await fetcher(`${API_ENDPOINT}/api/game/upcoming`, {
+        headers: {
+          pagination: true,
+          page: goToPage,
+          limit: 6,
+        },
       });
-      setIsLoading(false);
-    });
-  }, [setGames, setResultOf]);
+      if (data) {
+        setGameBoard({
+          items: data.items,
+          itemsCount: data.itemsCount,
+          page: data.page,
+          pageCount: data.pageCount,
+          limit: data.limit,
+          resultOf: "upcoming",
+          timestamp: new Date(),
+        });
+        setResultOf("upcoming");
+      }
+    }
+
+    setIsLoading(true);
+    fetchUpcoming();
+    setIsLoading(false);
+  }, [goToPage]);
 
   return (
     <div className={styles.wrapper}>

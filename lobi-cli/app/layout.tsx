@@ -1,10 +1,12 @@
 "use client"
 import './globals.css'
-import {Inter} from 'next/font/google'
-import {cn} from "@/lib/utils";
-import {Header} from "@/components/header/header";
-import {Footer} from "@/components/footer/footer";
-import {Toaster} from "@/components/ui/sonner";
+import { Inter } from 'next/font/google'
+import { cn } from "@/lib/utils";
+import { Header } from "@/components/header/header";
+import { Footer } from "@/components/footer/footer";
+import { Toaster } from "@/components/ui/sonner";
+import { Provider } from 'jotai';
+import { ReactNode } from "react";
 
 const inter = Inter({subsets: ['latin']})
 
@@ -14,16 +16,18 @@ const inter = Inter({subsets: ['latin']})
 // }
 
 export default function RootLayout({children,}: {
-  children: React.ReactNode
+  children: ReactNode
 }) {
   return (
     <html lang="en">
     <body className={
       cn(inter.className)}>
-    <Header/>
-    {children}
-    <Footer/>
-    <Toaster/>
+    <Provider>
+      <Header/>
+      {children}
+      <Footer/>
+      <Toaster/>
+    </Provider>
     </body>
     </html>
   )
